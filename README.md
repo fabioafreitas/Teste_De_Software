@@ -4,4 +4,4 @@
 
 # Teste De Software
 
- Neste projeto, foi realizado a fase de teste de sistema, utilizando o [Testlink](http://testlink.org/) e a automação dos casos de teste com o [Katalon Recorder](https://www.katalon.com/).
+ Neste projeto, foram realizados teste de sistema de forma manual, utilizando o [Testlink](http://testlink.org/), e com automação, utilizando o [Katalon Recorder](https://www.katalon.com/).
