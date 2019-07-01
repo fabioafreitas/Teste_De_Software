@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a03cfd5f-a26b-47d2-b23a-6666407a1ee1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/katalon/maik/GH27.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/katalon/maik/GH27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/katalon/maik/GH38.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/katalon/maik/GH38.java" afterDir="false" />
-    </list>
+    <list default="true" id="f0eb4903-7ddc-473b-bdee-f483173394c9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,52 +11,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/katalon/GH13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/katalon/GH15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/katalon/GH16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="52" column="70" lean-forward="true" selection-start-line="52" selection-start-column="70" selection-end-line="52" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/katalon/maik/GH27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="38" column="59" lean-forward="true" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/katalon/maik/GH38.java">
+        <entry file="file://$PROJECT_DIR$/test/katalon/GH20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+            <state relative-caret-position="374">
+              <caret line="46" column="99" lean-forward="true" selection-start-line="46" selection-start-column="99" selection-end-line="46" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -80,12 +40,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/test/katalon/GH13.java" />
-        <option value="$PROJECT_DIR$/test/katalon/GH15.java" />
-        <option value="$PROJECT_DIR$/test/katalon/GH16.java" />
-        <option value="$PROJECT_DIR$/test/katalon/maik/GH3.java" />
-        <option value="$PROJECT_DIR$/test/katalon/maik/GH27.java" />
-        <option value="$PROJECT_DIR$/test/katalon/maik/GH38.java" />
+        <option value="$PROJECT_DIR$/test/katalon/GH20.java" />
+        <option value="$PROJECT_DIR$/test/TestSuit.java" />
+        <option value="$PROJECT_DIR$/test/katalon/GH7.java" />
+        <option value="$PROJECT_DIR$/test/katalon/GH4.java" />
+        <option value="$PROJECT_DIR$/test/katalon/TestSuit.java" />
       </list>
     </option>
   </component>
@@ -97,10 +56,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="20" />
-    <option name="width" value="1382" />
-    <option name="height" value="756" />
+    <option name="x" value="991" />
+    <option name="y" value="27" />
+    <option name="width" value="929" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +77,11 @@
             <path>
               <item name="Automacao_Greenhouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automacao_Greenhouse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automacao_Greenhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automacao_Greenhouse" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -126,36 +89,26 @@
               <item name="Automacao_Greenhouse" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="katalon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automacao_Greenhouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automacao_Greenhouse" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="katalon" type="462c0819:PsiDirectoryNode" />
-              <item name="maik" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561921205235" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\paixo\OneDrive\Documents\GitHub\Teste_De_Software\Automacao_Greenhouse\test\katalon\maik" />
-      <recent name="C:\Users\paixo\OneDrive\Documents\GitHub\Teste_De_Software\Automacao_Greenhouse\test\katalon" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="katalon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -170,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GH13">
+  <component name="RunManager" selected="JUnit.TestSuit">
     <configuration name="GH13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automacao_Greenhouse" />
       <extension name="coverage">
@@ -186,38 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GH15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automacao_Greenhouse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="katalon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="katalon" />
-      <option name="MAIN_CLASS_NAME" value="katalon.GH15" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GH15.testGH15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automacao_Greenhouse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="katalon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="katalon" />
-      <option name="MAIN_CLASS_NAME" value="katalon.GH15" />
-      <option name="METHOD_NAME" value="testGH15" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GH16.testGH16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GH16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automacao_Greenhouse" />
       <extension name="coverage">
         <pattern>
@@ -227,18 +149,64 @@
       </extension>
       <option name="PACKAGE_NAME" value="katalon" />
       <option name="MAIN_CLASS_NAME" value="katalon.GH16" />
-      <option name="METHOD_NAME" value="testGH16" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GH20.testGH20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automacao_Greenhouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="katalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="katalon" />
+      <option name="MAIN_CLASS_NAME" value="katalon.GH20" />
+      <option name="METHOD_NAME" value="testGH20" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GH7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automacao_Greenhouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="katalon" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.GH7" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automacao_Greenhouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="katalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="katalon" />
+      <option name="MAIN_CLASS_NAME" value="katalon.TestSuit" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSuit" />
+        <item itemvalue="JUnit.GH7" />
         <item itemvalue="JUnit.GH13" />
-        <item itemvalue="JUnit.GH16.testGH16" />
-        <item itemvalue="JUnit.GH15.testGH15" />
-        <item itemvalue="JUnit.GH15" />
+        <item itemvalue="JUnit.GH20.testGH20" />
+        <item itemvalue="JUnit.GH16" />
       </list>
     </recent_temporary>
   </component>
@@ -247,231 +215,209 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a03cfd5f-a26b-47d2-b23a-6666407a1ee1" name="Default Changelist" comment="" />
-      <created>1561778694648</created>
+      <changelist id="f0eb4903-7ddc-473b-bdee-f483173394c9" name="Default Changelist" comment="" />
+      <created>1561943638506</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561778694648</updated>
-      <workItem from="1561778696883" duration="2210000" />
-      <workItem from="1561918713618" duration="1600000" />
-      <workItem from="1561938610787" duration="125000" />
+      <updated>1561943638506</updated>
+      <workItem from="1561943640414" duration="2126000" />
+      <workItem from="1561945892223" duration="596000" />
+      <workItem from="1561946765923" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 00h 56m 31s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
+    <history-entry file="GH13_testGH13 - 2019.06.30 at 22h 18m 02s.xml">
+      <configuration name="GH13.testGH13" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 00h 57m 56s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
+    <history-entry file="GH3 - 2019.06.30 at 22h 38m 43s.xml">
+      <configuration name="GH3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 00h 58m 24s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
+    <history-entry file="GH16 - 2019.06.30 at 22h 39m 49s.xml">
+      <configuration name="GH16" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 00h 58m 51s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 00h 59m 24s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 01h 00m 01s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.29 at 01h 00m 37s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GH16_testGH16 - 2019.06.30 at 15h 53m 34s.xml">
-      <configuration name="GH16.testGH16" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GH13 - 2019.06.30 at 15h 55m 03s.xml">
+    <history-entry file="GH13 - 2019.06.30 at 22h 40m 18s.xml">
       <configuration name="GH13" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GH13 - 2019.06.30 at 15h 56m 11s.xml">
+    <history-entry file="GH20_testGH20 - 2019.06.30 at 22h 48m 50s.xml">
+      <configuration name="GH20.testGH20" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GH13 - 2019.06.30 at 22h 50m 18s.xml">
       <configuration name="GH13" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GH7 - 2019.06.30 at 22h 52m 01s.xml">
+      <configuration name="GH7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuit - 2019.06.30 at 22h 57m 46s.xml">
+      <configuration name="TestSuit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuit - 2019.06.30 at 23h 06m 35s.xml">
+      <configuration name="TestSuit" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3935000" />
+    <option name="totallyTimeSpent" value="2758000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="20" width="1382" height="756" extended-state="6" />
+    <frame x="62" y="27" width="1858" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23013245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905295" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744783" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3294702" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Automacao_Greenhouse$GH13.ic" NAME="GH13 Coverage Results" MODIFIED="1561779703013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>katalon.*</FILTER>
-    </SUITE>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/katalon/GH3.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/A.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/katalon/maik/GH3.java">
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="8" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/abc/A.java">
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/katalon/GH13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/katalon/GH15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/katalon/GH16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="52" column="70" lean-forward="true" selection-start-line="52" selection-start-column="70" selection-end-line="52" selection-end-column="70" />
+        <state relative-caret-position="323">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/katalon/maik/GH27.java">
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH23.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="38" column="59" lean-forward="true" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/katalon/maik/GH38.java">
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/katalon/GH20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="46" column="99" lean-forward="true" selection-start-line="46" selection-start-column="99" selection-end-line="46" selection-end-column="99" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>9</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Automacao_Greenhouse</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

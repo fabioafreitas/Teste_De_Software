@@ -9,7 +9,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class GH3 {
+public class GH7 {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
@@ -23,13 +23,23 @@ public class GH3 {
   }
 
   @Test
-  public void testGH3() throws Exception {
+  public void testGH7() throws Exception {
     driver.get("https://lucasfranciscocorreia.github.io/DesenvolvimentoWEB/");
     driver.findElement(By.id("navbarDropdownMenuLink-4")).click();
     driver.findElement(By.id("defaultLoginFormEmail")).click();
+    driver.findElement(By.id("defaultLoginFormEmail")).clear();
+    driver.findElement(By.id("defaultLoginFormEmail")).sendKeys("exemplo2_de_email_no_limite_51_caracteres@email.com");
     driver.findElement(By.id("defaultLoginFormPassword")).click();
-    driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::a[1]")).click();
-    assertEquals("Preencha os campos corretamente", closeAlertAndGetItsText());
+    driver.findElement(By.id("defaultLoginFormPassword")).clear();
+    driver.findElement(By.id("defaultLoginFormPassword")).sendKeys("senhacorreta");
+    driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::button[1]")).click();
+    // Warning: waitForTextPresent may require manual changes
+    for (int second = 0;; second++) {
+    	if (second >= 60) fail("timeout");
+    	try { if (driver.findElement(By.cssSelector("BODY")).getText().matches("^[\\s\\S]*EMAIL inválido[\\s\\S]*$")) break; } catch (Exception e) {}
+    	Thread.sleep(1000);
+    }
+
   }
 
   @After

@@ -1,4 +1,4 @@
-package maik;
+package katalon;
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
