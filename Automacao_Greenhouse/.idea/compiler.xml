@@ -9,5 +9,8 @@
         <module name="Automacao_Greenhouse" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Automacao_Greenhouse" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -9,7 +9,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class GH7 {
+public class GH6 {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
@@ -23,7 +23,7 @@ public class GH7 {
   }
 
   @Test
-  public void testGH7() throws Exception {
+  public void testGH6() throws Exception {
     driver.get("https://lucasfranciscocorreia.github.io/DesenvolvimentoWEB/");
     driver.findElement(By.id("navbarDropdownMenuLink-4")).click();
     driver.findElement(By.id("defaultLoginFormEmail")).click();
