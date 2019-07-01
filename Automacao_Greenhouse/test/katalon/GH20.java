@@ -1,4 +1,4 @@
-﻿package com.example.tests;
+package com.example.tests;
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
@@ -44,12 +44,12 @@ public class GH20 {
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[5]")).sendKeys("01001000");
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[7]")).click();
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[7]")).clear();
-    Thread.sleep(2000);   driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[7]")).sendKeys("apartamento");
+    driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[7]")).sendKeys("apartamento");
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[8]")).click();
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[8]")).clear();
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::input[8]")).sendKeys("100");
     driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Jurídica'])[1]/following::button[1]")).click();
-    assertEquals("CNPJ inválido", closeAlertAndGetItsText());
+    assertEquals("CNPJ invalido", closeAlertAndGetItsText());
   }
 
   @After
